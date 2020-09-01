@@ -1,4 +1,4 @@
-# baseurl = "https://example.org/"
+baseurl = "https://www.shanejanz.com"
 title = "Shane Janz Graphic Design Portfolio"
 theme = "hugo-creative-portfolio"
 languageCode = "en-us"
